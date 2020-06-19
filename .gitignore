@@ -11,3 +11,5 @@ blog-post-images
 auto-deployment/eks/helm_charts/rshiny-eks/Chart.lock
 auto-deployment/eks/helm_charts/rshiny-eks/charts/
 
+.Rproj.user
+*.Rproj
