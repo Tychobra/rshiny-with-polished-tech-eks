@@ -1,5 +1,4 @@
 library(shiny)
-library(polished)
 
 ui <- polished::secure_ui(
   fluidPage(
